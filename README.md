@@ -1,6 +1,6 @@
--Hi, I’m Conrad
--I’m interested in Discord.js and game design 
--I’m currently learning Python and JavaScript
+- Hi, I’m Conrad
+- I’m interested in Discord.js and game design 
+- I’m currently learning Python and JavaScript
 
 <!---
 Conrad580/Conrad580 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
