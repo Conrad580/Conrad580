@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Conrad
 - 👀 I’m interested in Discord.js
 - 🌱 I’m currently learning Python and JavaScript
-- 💞️ I’m looking to collaborate on nothing at the moment
 
 <!---
 Conrad580/Conrad580 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
