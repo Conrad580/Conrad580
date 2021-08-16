@@ -1,5 +1,5 @@
 - Hi, I’m Conrad
-- I’m interested in Discord.js, bot and game esign 
+- I’m interested in Discord.js, bot and game design 
 - I’m currently learning Python and JavaScript
 
 <!---
