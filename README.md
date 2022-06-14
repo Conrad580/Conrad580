@@ -1,7 +1,6 @@
-- Hi, I’m Conrad
-- I’m currently learning Python, JavaScript and Lua (unfortunatly)
+### Heya :wave:
 
-<!---
-Conrad580/Conrad580 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- :star: he/him
+- :books: Secondary school Computer Science student class of 23'
+- :briefcase: Alumni at [HighTechU](https://hightechu.ca/main-section/about-us?mt=our-story)
+- :japanese_goblin: Certified goblin
