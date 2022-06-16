@@ -1,4 +1,4 @@
-### Heya :wave:
+### Heya
 
 - :star: he/him
 - :books: Secondary school Computer Science student class of 23'
